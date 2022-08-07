@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
 <h3 align="center">A Full-stack Developer from India</h3>
 
-- 🔭 I’m currently working on [Prabandhak](https://github.com/anirudh1713/prabandhak-server)
+- 🔭 I’m currently working on [Prabandhak](https://github.com/anirudh1713/prabandhak)
 
 - 🌱 I’m currently learning **ReactNative and Improving my problem solving skills**
 
